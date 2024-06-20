@@ -1,1 +1,2 @@
-
+CHILDREN ASSISTANCE APP
+Written in React Native (EXPO)
